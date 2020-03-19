@@ -17,4 +17,8 @@ https://warbler-client-np.herokuapp.com/
  </ul>
  
  
- <p>This was a fun project created with Udemy course "Advanced Web Developer Bootcamp" <br> which features ES6, React, D3, Testing, SVG animations, AJAX and more. 
+ <p>This was a fun project created with Udemy course "Advanced Web Developer Bootcamp" <br> which features ES6, React, D3, Testing, SVG animations, AJAX and more. </p>
+ 
+ Sign up today and post a message to the Warbler community!
+ 
+
